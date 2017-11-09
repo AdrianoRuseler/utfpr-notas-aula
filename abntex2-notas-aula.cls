@@ -309,11 +309,11 @@
 \makeevenfoot{notasUTFPR} %%pagina par
 {\imprimirautor}
 {}
-{\thelastpage}
+{\thepage}
 \makeoddfoot{notasUTFPR} %%pagina ímpar ou com oneside
 {\imprimirautor}
 {}
-{\thelastpage}
+{\thepage}
 
 
 %\textsc{\Large \imprimircentro }\\[0.5cm] % Major heading such as course name
